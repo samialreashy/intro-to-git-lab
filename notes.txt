@@ -15,3 +15,6 @@ ANSWER:its like find this repo so I can use it
 3. Once you've cloned the repo, how do you open it in VS Code?
 
 ANSWER:just type code .
+
+
+hey my name is samy
